@@ -1,8 +1,16 @@
 body{
-	  background: url("images/subway.jpg");
+
 	font-family:Verdana, Geneva, sans-serif;
-	background-size:cover;
+
 }
+
+
+div{
+	width: 50%
+}
+
+
+
 
 h1{
 
