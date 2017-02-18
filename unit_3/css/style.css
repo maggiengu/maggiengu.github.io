@@ -1,6 +1,7 @@
 body{
-	background:images/subway.jpg;
+	  background: url("images/subway.jpg");
 	font-family:Verdana, Geneva, sans-serif;
+	background-size:cover;
 }
 
 h1{
@@ -27,7 +28,7 @@ p{
 	color:#2C1317;
 }
 
-
+css
 ul{
 
 	color:#2C1317;
