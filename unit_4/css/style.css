@@ -1,0 +1,71 @@
+body{
+
+	font-family:Verdana, Geneva, sans-serif;
+	background-color: #E8F7EE;		
+
+}
+
+
+h1, #slogan {
+	font-family: 'Lora', serif;
+}
+
+p, ul {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+img{
+	width:75%;
+	display:block;
+	margin: auto;
+
+	
+}
+
+
+h1{
+
+	color:#4A4E56;
+	text-align:center;
+}
+
+
+
+
+
+
+
+#slogan{
+	color:#2C1317;
+	font-style: italic
+
+}
+
+
+hr{
+	width:250px;
+	color:#CBD4CD;
+
+}
+
+p{
+	color:#D0B07;
+	width:500px;
+	display:block;
+	margin:auto;
+	text-align:center;
+
+}
+
+
+
+ul{
+
+	color:#46b1a8;
+
+}
+
+
+
+
